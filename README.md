@@ -1,4 +1,4 @@
-# Cache_Implementation
+# Cache Implementation
 :  Implemented a simulator of n-way set associative cache mechanism\
 – Direct mapped cache (n=1)\
 – 2-way set associative cache (n=2)\
